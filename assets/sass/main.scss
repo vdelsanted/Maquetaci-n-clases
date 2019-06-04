@@ -1,0 +1,12 @@
+// Vendor
+@import 'vendors/bootstrap/bootstrap.scss';
+
+// Layouts
+@import 'layout/header';
+
+// Components
+@import 'components/nav';
+@import 'components/logo';
+
+// Pages
+@import 'pages/root';
